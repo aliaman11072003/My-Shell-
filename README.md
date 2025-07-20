@@ -57,7 +57,7 @@ myshell/
 ├── README.md           # Project documentation
 └── report/
     └── OS_CLI_Project_Report.pdf  # Semester report (if academic project)
-
+```
 🚀 How to Run
 ✅ Prerequisites
 Linux OS (or WSL on Windows)
