@@ -1,0 +1,24 @@
+Include these in your report/OS_CLI_Project_Report.pdf:
+
+Title Page
+
+Abstract
+
+Objectives
+
+Tools Used
+
+System Calls Used
+
+Architecture Diagram
+
+Feature List with Explanation
+
+Screenshots of Output
+
+Challenges Faced
+
+Future Scope (e.g., history, autocomplete)
+
+Conclusion
+
