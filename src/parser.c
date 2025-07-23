@@ -1,4 +1,5 @@
 #include <string.h>
+#include "headers/parser.h"
 
 int parse_input(char* input, char** args) {
     // remove newline

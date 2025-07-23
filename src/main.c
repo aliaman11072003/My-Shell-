@@ -1,6 +1,6 @@
-#include "parser.h"
-#include "executor.h"
-#include "builtins.h"
+#include "headers/parser.h"
+#include "headers/executor.h"
+#include "headers/builtins.h"
 #include <stdio.h>
 
 int main() {
