@@ -1,5 +1,7 @@
 #include "parser.h"
 #include "executor.h"
+#include "builtins.h"
+#include <stdio.h>
 
 int main() {
     char input[1024];

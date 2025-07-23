@@ -1,3 +1,7 @@
+#include <string.h>
+#include <unistd.h>
+#include <stdlib.h>
+
 int is_builtin(char** args) {
     return (strcmp(args[0], "cd") == 0 || strcmp(args[0], "exit") == 0);
 }

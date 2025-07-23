@@ -1,3 +1,5 @@
+#include <string.h>
+
 int parse_input(char* input, char** args) {
     // remove newline
     input[strcspn(input, "\n")] = 0;
